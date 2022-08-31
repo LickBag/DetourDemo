@@ -1,0 +1,2 @@
+#define STRINGCOMPARE_API __declspec(dllexport)
+#define STRINGCOMPARE_API __declspec(dllimport)

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CrashDumpHelper.Test.CPlus", "CrashDumpHelper.Test.CPlus\CrashDumpHelper.Test.CPlus.vcxproj", "{0C8B9AEB-86BC-45F4-9FB2-33C82360ACF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringCompare", "StringCompare\StringCompare.vcxproj", "{D48A8864-7A20-47CE-9E32-CB8C6D687BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8B9AEB-86BC-45F4-9FB2-33C82360ACF9}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C8B9AEB-86BC-45F4-9FB2-33C82360ACF9}.Debug|x86.Build.0 = Debug|Win32
+		{0C8B9AEB-86BC-45F4-9FB2-33C82360ACF9}.Release|x86.ActiveCfg = Release|Win32
+		{0C8B9AEB-86BC-45F4-9FB2-33C82360ACF9}.Release|x86.Build.0 = Release|Win32
+		{D48A8864-7A20-47CE-9E32-CB8C6D687BFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D48A8864-7A20-47CE-9E32-CB8C6D687BFB}.Debug|x86.Build.0 = Debug|Win32
+		{D48A8864-7A20-47CE-9E32-CB8C6D687BFB}.Release|x86.ActiveCfg = Release|Win32
+		{D48A8864-7A20-47CE-9E32-CB8C6D687BFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B60383F1-F530-4BDE-958E-0170B3A1A1A8}
+	EndGlobalSection
+EndGlobal
